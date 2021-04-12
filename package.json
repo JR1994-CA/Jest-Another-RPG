@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/JR1994-CA/Jest-Another-RPG#readme",
   "devDependencies": {
-    "inquirer": "^7.0.3",
     "jest": "^26.6.3"
+  },
+  "dependencies": {
+    "inquirer": "^8.0.0"
   }
 }
